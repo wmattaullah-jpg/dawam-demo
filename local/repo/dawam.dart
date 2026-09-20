@@ -1777,3 +1777,4 @@ Future<void> _seedSampleData(DAWAMRepository repository) async {
     await repository.saveExercise(exercise);
   }
 }
+
